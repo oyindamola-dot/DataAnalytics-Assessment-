@@ -7,7 +7,7 @@ SELECT * FROM savings_savingsaccount;
 SELECT * FROM users_customuser;
 SELECT * FROM withdrawals_withdrawal;
 
--- Assessment 1
+-- To start with the first query
 
  SELECT
     u.id AS owner_id,		-- Selects the user ID from the users_customuser table and renames it to owner_id
